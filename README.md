@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Will-Taylor1
 - 👀 I’m interested in music and film
-- 🌱 I’m currently learning software development 
+- 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me https://www.linkedin.com/in/williamtaylor456/
 
