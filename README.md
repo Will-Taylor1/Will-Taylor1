@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Will-Taylor1
 - 👀 I’m interested in music and film
 - 🌱 I’m currently learning software development 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
 
 <!---
