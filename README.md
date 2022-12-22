@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Taylor</h1>
-<h3 align="center">A recent graduate of Le Wagon</h3>
+<h3 align="center">A recent graduate of Le Wagon and junior full-stack software engingeer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
